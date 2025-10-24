@@ -2,7 +2,7 @@
 
 # Script para la Integración de Covariables Geoespaciales y Socio-Demográficas
 # Autor: Benjamín Paulino Mendoza Contreras y Mariana Ramírez Hernández 
-# Fecha: [Fecha de Creación/Última Modificación]
+# Fecha: 23/10/2025
 
 ## 1. Configuración Inicial y Carga de Librerías
 
