@@ -1,7 +1,7 @@
-# Predicci-n-de-la-abundancia-del-vector-del-dengue-usando-Algoritmos-de-Machine-Learning
+# Predicción de la abundancia del vector del dengue usando algoritmos de Machine Learning
 
 # Script para la Integración de Covariables Geoespaciales y Socio-Demográficas
-# Autor: [Tu Nombre]
+# Autor: Benjamín Paulino Mendoza Contreras y Mariana Ramírez Hernández 
 # Fecha: [Fecha de Creación/Última Modificación]
 
 ## 1. Configuración Inicial y Carga de Librerías
